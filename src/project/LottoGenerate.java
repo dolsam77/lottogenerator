@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class LottoGenerate {
     private Random random = new Random(System.nanoTime());
-    ///ìˆ˜ì •
+    ///¶Ç ¼öÁ¤
     public int[] generate(){
         int[] result = new int[6];
         
